@@ -5,6 +5,7 @@ This repo showcases the creation of a small Mixed Reality prototypes with WebXR 
 
 ## Requirements
 - Just a Browser (Chrome is recommended).
+- A Mattercraft Account which you can freely create [here](https://bit.ly/3VSmruD).
 - Audio.zip and Models.zip which can be downloaded from this repo under the [Resources](../../tree/master/Resources) folder.
 
 ## 🕹️ Projects / Games
