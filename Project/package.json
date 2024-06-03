@@ -1,0 +1,22 @@
+{
+	"name": "simple-threejs",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"three": "0.150.1",
+		"@zcomponent/core": "1.x",
+		"@zcomponent/html": "1.x",
+		"@zcomponent/three": "1.x",
+		"@zcomponent/three-webxr": "1.x",
+		"@zcomponent/physics": "^1.0.2"
+	},
+	"devDependencies": {
+		"@types/three": "0.150.1",
+		"typescript": "4.8.4"
+	}
+}

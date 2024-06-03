@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "hideFromProjectView": [
+    "package.json",
+    "*.d.ts",
+    "/node_modules",
+    ".*"
+  ],
+  "initialFilesOpen": [
+    "/Scene.zcomp"
+  ],    
+  "supportedDevices": {
+    "metaQuest": true
+  }
+
+}

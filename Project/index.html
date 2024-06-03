@@ -1,0 +1,106 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <script src="./index.ts" type="module" async></script>
+
+        <style>
+            body, html {
+                padding: 0;
+                margin: 0;
+                font-family: sans-serif;
+            }
+
+            .splash {
+                background-color: rgb(31, 32, 33);
+                position: fixed;
+                width: 100%;
+                height: 100%;
+                z-index: 2000;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+
+                /* background-image: url(./background.jpg);
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover; */
+            }
+
+            .splash-box {
+                width: 304px;
+                max-width: 90%;
+                background: rgba(31, 32, 33, 0.78);
+                border-radius: 8px;
+                padding: 50px 20px 50px 20px;
+                box-sizing: border-box;
+            }
+
+            .splash-box > h1 {
+                font-size: 34px;
+                font-weight: 700;
+                padding: 0;
+                margin: 0;
+                color: white;
+            }
+
+            .splash-highlight {
+                color: #6AE5E0;
+            }
+
+            .zcomponent-launched .splash {
+                display: none;
+            }
+
+            #launchButton {
+                background: linear-gradient(94deg, #6BE5AD 0%, #53AFE4 100.05%);
+                border-radius: 8px;
+                border: none;
+                padding: 11px 23px;
+                font-size: 20px;
+                margin-top: 30px;
+                line-height: 24px;
+                height: 48px;
+                color: black;
+            }
+
+            #launchButton:disabled {
+                background: none;
+                background-color: none;
+                width: 48px;
+                visibility: hidden;
+                padding: 0px;
+            }
+
+            #launchButton:disabled:before {
+                content: " ";
+                visibility: visible;
+                display: block;
+                width: 48px;
+                height: 48px;
+                margin: 0px;
+                border-radius: 50%;
+                box-sizing: border-box;
+                border: 5px solid #fff;
+                border-color: #fff transparent #fff transparent;
+                animation: loading-animation 1.2s linear infinite;
+            }
+            
+            @keyframes loading-animation {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class='splash'>
+            <div class='splash-box'>
+                <h1>An <span class='splash-highlight'>immersive</span> web experience</h1>
+                <button id="launchButton" disabled>Launch</button>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,572 @@
+{
+	"behaviors": {
+		"542ce7836f07426ab4873764279c91ae": {
+			"id": "542ce7836f07426ab4873764279c91ae",
+			"label": "RigidBody",
+			"parent": {
+				"id": "858be2f208b4402bbea71d42e9f2ff06",
+				"order": "a0",
+				"scriptName": "RigidBody"
+			},
+			"type": "@zcomponent/physics/lib/behaviors/RigidBody#RigidBody"
+		},
+		"7eb3cc9002a9477cade5ba0f4f8aed12": {
+			"id": "7eb3cc9002a9477cade5ba0f4f8aed12",
+			"label": "RigidBody",
+			"parent": {
+				"id": "3cfe473c618741349e38aa2f5e0e3406",
+				"order": "a0",
+				"scriptName": "RigidBody"
+			},
+			"type": "@zcomponent/physics/lib/behaviors/RigidBody#RigidBody"
+		},
+		"8cd530d9edf64f4db0c049ac82f5ef10": {
+			"id": "8cd530d9edf64f4db0c049ac82f5ef10",
+			"label": "RigidBody",
+			"parent": {
+				"id": "37f51ad517f146d2baf6d59b3eec032f",
+				"order": "a0",
+				"scriptName": "RigidBody"
+			},
+			"type": "@zcomponent/physics/lib/behaviors/RigidBody#RigidBody"
+		},
+		"b0f8cff225b34e638d1c1da5f5eabc11": {
+			"id": "b0f8cff225b34e638d1c1da5f5eabc11",
+			"label": "RigidBody",
+			"parent": {
+				"id": "29d3930b5de245e38fc03c2ba582405d",
+				"order": "a0",
+				"scriptName": "RigidBody"
+			},
+			"type": "@zcomponent/physics/lib/behaviors/RigidBody#RigidBody"
+		},
+		"fd8b8e68323a47e78390664ce7441f32": {
+			"id": "fd8b8e68323a47e78390664ce7441f32",
+			"label": "RigidBody",
+			"parent": {
+				"id": "ffb1730336ca4af0b4a3fe69b6acc045",
+				"order": "a0",
+				"scriptName": "RigidBody"
+			},
+			"type": "@zcomponent/physics/lib/behaviors/RigidBody#RigidBody"
+		}
+	},
+	"behaviorsByNode": {
+	},
+	"constructorProps": {
+	},
+	"entitiesByLabel": {
+		"Collider": {
+			"695c828d5b7e45f0b6dd3dcee4e5991e": true,
+			"74808a4c2cb948e98e627723e4784045": true,
+			"7cee857ee746455d886af07079f4b1d8": true,
+			"ce1e8ded786741d68a0e538ced22004e": true,
+			"e4d8e6b7560f4bd080a8aa059e567503": true
+		},
+		"Edge": {
+			"29d3930b5de245e38fc03c2ba582405d": true,
+			"37f51ad517f146d2baf6d59b3eec032f": true,
+			"3cfe473c618741349e38aa2f5e0e3406": true,
+			"858be2f208b4402bbea71d42e9f2ff06": true
+		},
+		"Table": {
+			"ffb1730336ca4af0b4a3fe69b6acc045": true
+		},
+		"TableMaterial": {
+			"2f37377f319642b58b3428cb0f1573f0": true
+		}
+	},
+	"entitiesByScriptName": {
+		"Collider": {
+			"695c828d5b7e45f0b6dd3dcee4e5991e": true
+		},
+		"Collider1": {
+			"74808a4c2cb948e98e627723e4784045": true
+		},
+		"Collider2": {
+			"7cee857ee746455d886af07079f4b1d8": true
+		},
+		"Collider3": {
+			"ce1e8ded786741d68a0e538ced22004e": true
+		},
+		"Collider4": {
+			"e4d8e6b7560f4bd080a8aa059e567503": true
+		},
+		"Edge": {
+			"29d3930b5de245e38fc03c2ba582405d": true
+		},
+		"Edge1": {
+			"3cfe473c618741349e38aa2f5e0e3406": true
+		},
+		"Edge2": {
+			"858be2f208b4402bbea71d42e9f2ff06": true
+		},
+		"Edge3": {
+			"37f51ad517f146d2baf6d59b3eec032f": true
+		},
+		"Table": {
+			"ffb1730336ca4af0b4a3fe69b6acc045": true
+		},
+		"TableMaterial": {
+			"2f37377f319642b58b3428cb0f1573f0": true
+		}
+	},
+	"entityConstructorProps": {
+		"29d3930b5de245e38fc03c2ba582405d": {
+		},
+		"2f37377f319642b58b3428cb0f1573f0": {
+		},
+		"37f51ad517f146d2baf6d59b3eec032f": {
+		},
+		"3cfe473c618741349e38aa2f5e0e3406": {
+		},
+		"542ce7836f07426ab4873764279c91ae": {
+		},
+		"695c828d5b7e45f0b6dd3dcee4e5991e": {
+		},
+		"74808a4c2cb948e98e627723e4784045": {
+		},
+		"7cee857ee746455d886af07079f4b1d8": {
+		},
+		"7eb3cc9002a9477cade5ba0f4f8aed12": {
+		},
+		"858be2f208b4402bbea71d42e9f2ff06": {
+		},
+		"8cd530d9edf64f4db0c049ac82f5ef10": {
+		},
+		"b0f8cff225b34e638d1c1da5f5eabc11": {
+		},
+		"ce1e8ded786741d68a0e538ced22004e": {
+		},
+		"e4d8e6b7560f4bd080a8aa059e567503": {
+		},
+		"fd8b8e68323a47e78390664ce7441f32": {
+		},
+		"ffb1730336ca4af0b4a3fe69b6acc045": {
+		}
+	},
+	"entityPropOverrides": {
+		"componentprop:prop:root:position": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"position"
+			],
+			"id": "componentprop:prop:root:position",
+			"isConstructorProp": false,
+			"propName": "position",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:rotation": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"rotation"
+			],
+			"id": "componentprop:prop:root:rotation",
+			"isConstructorProp": false,
+			"propName": "rotation",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:scale": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"scale"
+			],
+			"id": "componentprop:prop:root:scale",
+			"isConstructorProp": false,
+			"propName": "scale",
+			"type": "componentprop"
+		},
+		"componentprop:prop:root:visible": {
+			"entityID": "root",
+			"entityPropIsConstructor": false,
+			"entityPropPath": [
+				"visible"
+			],
+			"id": "componentprop:prop:root:visible",
+			"isConstructorProp": false,
+			"propName": "visible",
+			"type": "componentprop"
+		}
+	},
+	"entityProps": {
+		"29d3930b5de245e38fc03c2ba582405d": {
+			"material": [
+				"2f37377f319642b58b3428cb0f1573f0"
+			],
+			"position": [
+				-0.49474061110831563,
+				0.04968489963792483,
+				0.00029119086609503964
+			],
+			"scale": [
+				0.01,
+				0.05,
+				0.7
+			]
+		},
+		"2f37377f319642b58b3428cb0f1573f0": {
+			"color": [
+				0.5803921568627451,
+				0.5764705882352941,
+				0.5725490196078431
+			]
+		},
+		"37f51ad517f146d2baf6d59b3eec032f": {
+			"material": [
+				"2f37377f319642b58b3428cb0f1573f0"
+			],
+			"position": [
+				-2.7647155398380363e-17,
+				0.04968489963792483,
+				0.34548801895502185
+			],
+			"rotation": [
+				0,
+				1.5707963267948966,
+				0
+			],
+			"scale": [
+				0.01,
+				0.05,
+				0.979816806744519
+			]
+		},
+		"3cfe473c618741349e38aa2f5e0e3406": {
+			"material": [
+				"2f37377f319642b58b3428cb0f1573f0"
+			],
+			"position": [
+				0.49546598819109233,
+				0.04968489963792483,
+				0.00029119086609503964
+			],
+			"scale": [
+				0.01,
+				0.05,
+				0.7
+			]
+		},
+		"542ce7836f07426ab4873764279c91ae": {
+			"motionType": "Kinematic"
+		},
+		"695c828d5b7e45f0b6dd3dcee4e5991e": {
+		},
+		"74808a4c2cb948e98e627723e4784045": {
+		},
+		"7cee857ee746455d886af07079f4b1d8": {
+		},
+		"7eb3cc9002a9477cade5ba0f4f8aed12": {
+			"motionType": "Kinematic"
+		},
+		"858be2f208b4402bbea71d42e9f2ff06": {
+			"material": [
+				"2f37377f319642b58b3428cb0f1573f0"
+			],
+			"position": [
+				5.551115123125783e-17,
+				0.04968489963792483,
+				-0.34448632665807716
+			],
+			"rotation": [
+				0,
+				1.5707963267948966,
+				0
+			],
+			"scale": [
+				0.01,
+				0.05,
+				0.979816806744519
+			]
+		},
+		"8cd530d9edf64f4db0c049ac82f5ef10": {
+			"motionType": "Kinematic"
+		},
+		"b0f8cff225b34e638d1c1da5f5eabc11": {
+			"motionType": "Kinematic"
+		},
+		"ce1e8ded786741d68a0e538ced22004e": {
+		},
+		"e4d8e6b7560f4bd080a8aa059e567503": {
+		},
+		"fd8b8e68323a47e78390664ce7441f32": {
+			"motionType": "Kinematic"
+		},
+		"ffb1730336ca4af0b4a3fe69b6acc045": {
+			"material": [
+				"2f37377f319642b58b3428cb0f1573f0"
+			],
+			"position": [
+				0,
+				0,
+				0
+			],
+			"scale": [
+				1,
+				0.05,
+				0.7
+			]
+		}
+	},
+	"id": "0f3f136df62e4948b6129d183b8bc3e2",
+	"nodes": {
+		"29d3930b5de245e38fc03c2ba582405d": {
+			"id": "29d3930b5de245e38fc03c2ba582405d",
+			"label": "Edge",
+			"parent": {
+				"id": "root",
+				"order": "a0V"
+			},
+			"scriptName": "Edge",
+			"type": "@zcomponent/three/lib/components/meshes/Box#Box"
+		},
+		"2f37377f319642b58b3428cb0f1573f0": {
+			"id": "2f37377f319642b58b3428cb0f1573f0",
+			"label": "TableMaterial",
+			"parent": {
+				"id": "root",
+				"order": "a1"
+			},
+			"scriptName": "TableMaterial",
+			"type": "@zcomponent/three/lib/components/materials/MeshStandardMaterial#MeshStandardMaterial"
+		},
+		"37f51ad517f146d2baf6d59b3eec032f": {
+			"id": "37f51ad517f146d2baf6d59b3eec032f",
+			"label": "Edge",
+			"parent": {
+				"id": "root",
+				"order": "a0s"
+			},
+			"scriptName": "Edge3",
+			"type": "@zcomponent/three/lib/components/meshes/Box#Box"
+		},
+		"3cfe473c618741349e38aa2f5e0e3406": {
+			"id": "3cfe473c618741349e38aa2f5e0e3406",
+			"label": "Edge",
+			"parent": {
+				"id": "root",
+				"order": "a0d"
+			},
+			"scriptName": "Edge1",
+			"type": "@zcomponent/three/lib/components/meshes/Box#Box"
+		},
+		"695c828d5b7e45f0b6dd3dcee4e5991e": {
+			"id": "695c828d5b7e45f0b6dd3dcee4e5991e",
+			"label": "Collider",
+			"parent": {
+				"id": "ffb1730336ca4af0b4a3fe69b6acc045",
+				"order": "a0"
+			},
+			"scriptName": "Collider",
+			"type": "@zcomponent/physics/lib/components/Colliders/Collider#Collider"
+		},
+		"74808a4c2cb948e98e627723e4784045": {
+			"id": "74808a4c2cb948e98e627723e4784045",
+			"label": "Collider",
+			"parent": {
+				"id": "29d3930b5de245e38fc03c2ba582405d",
+				"order": "a0"
+			},
+			"scriptName": "Collider1",
+			"type": "@zcomponent/physics/lib/components/Colliders/Collider#Collider"
+		},
+		"7cee857ee746455d886af07079f4b1d8": {
+			"id": "7cee857ee746455d886af07079f4b1d8",
+			"label": "Collider",
+			"parent": {
+				"id": "3cfe473c618741349e38aa2f5e0e3406",
+				"order": "a0"
+			},
+			"scriptName": "Collider2",
+			"type": "@zcomponent/physics/lib/components/Colliders/Collider#Collider"
+		},
+		"858be2f208b4402bbea71d42e9f2ff06": {
+			"id": "858be2f208b4402bbea71d42e9f2ff06",
+			"label": "Edge",
+			"parent": {
+				"id": "root",
+				"order": "a0j"
+			},
+			"scriptName": "Edge2",
+			"type": "@zcomponent/three/lib/components/meshes/Box#Box"
+		},
+		"ce1e8ded786741d68a0e538ced22004e": {
+			"id": "ce1e8ded786741d68a0e538ced22004e",
+			"label": "Collider",
+			"parent": {
+				"id": "858be2f208b4402bbea71d42e9f2ff06",
+				"order": "a0"
+			},
+			"scriptName": "Collider3",
+			"type": "@zcomponent/physics/lib/components/Colliders/Collider#Collider"
+		},
+		"e4d8e6b7560f4bd080a8aa059e567503": {
+			"id": "e4d8e6b7560f4bd080a8aa059e567503",
+			"label": "Collider",
+			"parent": {
+				"id": "37f51ad517f146d2baf6d59b3eec032f",
+				"order": "a0"
+			},
+			"scriptName": "Collider4",
+			"type": "@zcomponent/physics/lib/components/Colliders/Collider#Collider"
+		},
+		"ffb1730336ca4af0b4a3fe69b6acc045": {
+			"id": "ffb1730336ca4af0b4a3fe69b6acc045",
+			"label": "Table",
+			"parent": {
+				"id": "root",
+				"order": "a0"
+			},
+			"scriptName": "Table",
+			"type": "@zcomponent/three/lib/components/meshes/Box#Box"
+		},
+		"root": {
+			"id": "root",
+			"type": "@zcomponent/three/lib/components/Group#Group"
+		}
+	},
+	"preview": "@zcomponent/three/lib/preview#default",
+	"props": {
+		"position": {
+			"comments": [
+				"The position, in 3D space, of this node relative to its parent. The three elements of the array correspond to the `x`, `y`, and `z` components of position."
+			],
+			"default": [
+				0,
+				0,
+				0
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "position",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"rotation": {
+			"comments": [
+				"The rotation, in three dimensions, of this node relative to its parent. The three elements of the array correspond to Euler angles - yaw, pitch and roll."
+			],
+			"default": [
+				0,
+				0,
+				0
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "rotation",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"scale": {
+			"comments": [
+				"The scale, in three dimensions, of this node relative to its parent. The three elements of the array correspond to scales in the the `x`, `y`, and `z` axis."
+			],
+			"default": [
+				1,
+				1,
+				1
+			],
+			"group": "Transform",
+			"groupPriority": 10,
+			"name": "scale",
+			"type": {
+				"children": [
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					},
+					{
+						"comments": [
+						],
+						"name": "number"
+					}
+				],
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "tuple",
+				"names": [
+					"x",
+					"y",
+					"z"
+				]
+			}
+		},
+		"visible": {
+			"comments": [
+				"Determines if this object and its children are rendered to the screen."
+			],
+			"default": true,
+			"group": "Appearance",
+			"groupPriority": 11,
+			"name": "visible",
+			"type": {
+				"comments": [
+				],
+				"isObservable": true,
+				"name": "boolean"
+			}
+		}
+	},
+	"root": "root"
+}
