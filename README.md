@@ -19,4 +19,4 @@ This repo showcases the creation of a small Mixed Reality prototypes with WebXR 
 |Ball Spawner Component|
 |<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/BallSpawner.gif" width="560">|
 |Switching To Hand Tracking|
-|<img src="https://github.com/dilmerv/MetaXRTableTopGames/blob/master/Docs/images/ToHandTracking.gif" width="560">|
+|<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/ToHandTracking.gif" width="560">|
