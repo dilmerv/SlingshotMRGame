@@ -12,4 +12,11 @@ This repo showcases the creation of a small Mixed Reality prototypes with WebXR 
 
 ### 🎯 Slingshot Mixed Reality Game
 
-GIFs TBD...
+|**WebXR / Mattercraft Demos**|
+|:-:|
+|Main Scene Gameplay|
+|<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/SlingshotGame.gif" width="560">|
+|Ball Spawner Component|
+|<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/BallSpawner.gif" width="560">|
+|Switching To Hand Tracking|
+|<img src="https://github.com/dilmerv/SlingshotMRGame/blob/master/Docs/images/ToHandTracking.gif" width="560">|
